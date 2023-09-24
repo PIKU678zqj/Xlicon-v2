@@ -10,16 +10,16 @@ global.antitags = true;
 
 
 //auto functioner
-global.autoTyping = false;                //auto tying by default off.
-global.autoRecord = false;                //auto recording by default off.
+global.autoTyping = true;                //auto tying by default off.
+global.autoRecord = true;                //auto recording by default off.
 global.groupevent = false;                //This is the new variable for controlling group event handling.
 global.statusseen = true;                 //This is the new variable for controlling status seen.
 
 
 //
-global.Owner = ["8159019738"];         //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
-global.OwnerNumber = ["8159019738"];   //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
-global.ownertag = ["8159019738"];
+global.Owner = ["917602646618"];         //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
+global.OwnerNumber = ["917602646618"];   //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
+global.ownertag = ["917602646618"];
 global.OwnerName = "vote";
 global.BotName = "ALEX ";
 global.packname = "X-2.0 Bot";                             //Do not change.
@@ -38,7 +38,7 @@ global.openAiAPI = "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";
 
 
 //
-global.location = "Dhaka, Bangladesh";                   
+global.location = "india";                   
 global.reactmoji = "✅";
 global.themeemoji = "💖";
 global.vidmenu = { url: 'https://tenor.com/view/jujutsu-kaisen0-yuta-okkotsu-gif-26767662' };
